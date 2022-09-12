@@ -1,0 +1,524 @@
+# Copyright (C) 2022 Woostify Pro
+# This file is distributed under the same license as the Woostify Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woostify Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-10 09:40+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: woostify-pro/inc/class-woostify-pro.php:102
+msgid "Sticky"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:121
+msgid "Woostify Options"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:123
+msgid "Dashboard"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:141
+msgid "View Woostify Pro settings"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:141, woostify-pro/inc/class-woostify-pro.php:864
+msgid "Settings"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:280
+msgid "Save"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:281
+msgid "Saving"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:282
+msgid "Saved"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:283
+msgid "Saved successfully"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:336, woostify-pro/inc/class-woostify-pro.php:348, woostify-pro/inc/class-woostify-pro.php:824, woostify-pro/inc/class-woostify-pro.php:1005
+msgid "Activate"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:337
+msgid "Activating..."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:338, woostify-pro/inc/class-woostify-pro.php:349, woostify-pro/inc/class-woostify-pro.php:825, woostify-pro/inc/class-woostify-pro.php:1005
+msgid "Deactivate"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:339
+msgid "Deactivating..."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:342, woostify-pro/inc/class-woostify-pro.php:978
+msgid "Receiving updates"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:343, woostify-pro/inc/class-woostify-pro.php:980
+msgid "Not receiving updates"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:344
+msgid "Please enter your license."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:345
+msgid "Your license has been activated successfully!."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:346
+msgid "Your license has been deactivated."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:347
+msgid "We are sorry, an error has occurred - Invalid License."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:472
+msgid "Shop By Categories"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:540
+msgid "Elementor must be activated"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:544
+msgid "WooCommerce must be activated"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:548
+msgid "WooCommerce and Elementor must be activeted"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:551
+msgid "Multiple Headers"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:552
+msgid "Sticky Header"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:554
+msgid "Mega Menu"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:558
+msgid "Elementor Bundle"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:564
+msgid "Header Footer Builder"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:570
+msgid "WooBuilder"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:576
+msgid "Smart Product Filter "
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:582
+msgid "Ajax Product Search"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:588
+msgid "Size Guide"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:594
+msgid "Advanced Shop Widgets"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:600
+msgid "Buy Now Button"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:606
+msgid "Sticky Single Add To Cart"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:612
+msgid "Quick View"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:618
+msgid "Countdown Urgency"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:624
+msgid "Variation Swatches"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:630
+msgid "Sale Notification"
+msgstr ""
+
+#. translators: Woostify Pro Version
+#: woostify-pro/inc/class-woostify-pro.php:813
+msgid "Woostify Pro %s"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:823
+msgid "Bulk Actions"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:829
+msgid "Apply"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:991
+msgid "Your License Key"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:997
+msgid "Help"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1002
+msgid "Please enter your license key here"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1168
+msgid "A new version of Woostify Theme is available. For better performance and compatibility of Woostify Pro Plugin, we recommend updating to the latest version."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1169
+msgid "Update Woostify Now"
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1178, woostify-pro/inc/class-woostify-pro.php:1210
+msgid "Dismiss this notice."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1200
+msgid "A new version of Woostify Pro Plugin is available. For better performance and compatibility of Woostify Theme, we recommend updating to the latest version."
+msgstr ""
+
+#: woostify-pro/inc/class-woostify-pro.php:1201
+msgid "Update Woostify Pro Now"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:17
+msgid "attachment"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:18
+msgid "revision"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:19
+msgid "nav_menu_item"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:20
+msgid "custom_css"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:21
+msgid "customize_changeset"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:22
+msgid "oembed_cache"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:23
+msgid "user_request"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:24
+msgid "wp_block"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:25
+msgid "elementor_library"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:26
+msgid "btf_builder"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:27
+msgid "elementor-hf"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:28
+msgid "elementor_font"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:29
+msgid "elementor_icons"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:30
+msgid "wpforms"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:31
+msgid "wpforms_log"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:32
+msgid "acf-field-group"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:33
+msgid "acf-field"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:34
+msgid "booked_appointments"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:35
+msgid "wpcf7_contact_form"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:36
+msgid "scheduled-action"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:37
+msgid "shop_order"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:38
+msgid "shop_order_refund"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:39
+msgid "shop_coupon"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:43
+msgid "All"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:44
+msgid "Blog Page"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:45
+msgid "Archive Page"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:46
+msgid "Search Page"
+msgstr ""
+
+#: woostify-pro/inc/woostify-pro-functions.php:47
+msgid "404 Page"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:25
+msgid "Button Buy Now"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:52
+msgid "Add Buy Now Button"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:108, woostify-pro/inc/customizer/product-single.php:88
+msgid "Background"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:120
+msgid "Hover Background"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:176, woostify-pro/inc/customizer/product-single.php:156
+msgid "Color"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:188
+msgid "Hover Color"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:211
+msgid "Border Radius"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:245
+msgid "Button Sticky"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:269
+msgid "Sticky Add To Cart Button"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:276
+msgid "Top"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:277
+msgid "Bottom"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:298
+msgid "Sticky On"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:305
+msgid "Desktop"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:306
+msgid "Mobile"
+msgstr ""
+
+#: woostify-pro/inc/customizer/product-single.php:307
+msgid "Desktop + Mobile"
+msgstr ""
+
+#: woostify-pro/inc/elementor/class-woostify-elementor-helper.php:148, woostify-pro/inc/elementor/class-woostify-elementor-helper.php:119
+msgid "Nothing Found"
+msgstr ""
+
+#: woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:81, woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:227
+msgid "All Products"
+msgstr ""
+
+#: woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:52
+msgid "All Categories"
+msgstr ""
+
+#: woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:153, woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:191
+msgid "No product category found"
+msgstr ""
+
+#: woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:140
+msgid "All Categoties"
+msgstr ""
+
+#: woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:243, woostify-pro/inc/woocommerce/class-woostify-woocommerce-helper.php:288
+msgid "No products found!"
+msgstr ""
+
+#: woostify-pro/inc/elementor/controls/class-woostify-autocomplete-control.php:48
+msgid "Searching..."
+msgstr ""
+
+#: woostify-pro/inc/elementor/controls/class-woostify-autocomplete-control.php:66
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:21
+msgid "Sale"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:22
+msgid "Featured"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:23
+msgid "Latest Products"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:24
+msgid "Manual Selection"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:28
+msgid "Current Query"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:35
+msgid "Query"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:43
+msgid "Source"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:54
+msgid "Select Products"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:78
+msgid "Include"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:86, woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:107
+msgid "Terms"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:99
+msgid "Exclude"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:120
+msgid "Products"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:137
+msgid "Total Products"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:154
+msgid "Order By"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:161
+msgid "ID"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:162
+msgid "Title"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:163
+msgid "Price"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:164
+msgid "Rating"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:165
+msgid "Popularity"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:166
+msgid "Date"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:167
+msgid "Menu Order"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:168
+msgid "Stock Status"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:169
+msgid "Random"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:178
+msgid "Order"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:185
+msgid "ASC"
+msgstr ""
+
+#: woostify-pro/inc/elementor/product-base/class-woostify-elementor-products-base.php:186
+msgid "DESC"
+msgstr ""

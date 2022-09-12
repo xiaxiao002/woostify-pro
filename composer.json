@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/woostify-pro",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/woostify-pro",
+	"authors": [
+		{
+		"name": "woostify-pro",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
