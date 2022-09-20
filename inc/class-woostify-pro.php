@@ -1059,6 +1059,7 @@ if ( ! class_exists( 'Woostify_Pro' ) ) {
 
 			// Bail if the nonce doesn't check out.
 			if ( ! current_user_can( 'update_plugins' ) ) {
+				return "aaa111";
 				return;
 			}
 
@@ -1067,9 +1068,10 @@ if ( ! class_exists( 'Woostify_Pro' ) ) {
 
 			// Return if license is empty.
 			if ( empty( $new ) ) {
+				return "bb22";
 				return;
 			}
-
+			return "cc33";
 			// Get the previously saved value.
 			$old = get_option( 'woostify_pro_license_key' );
 
