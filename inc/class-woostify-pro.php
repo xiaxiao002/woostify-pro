@@ -1058,20 +1058,19 @@ if ( ! class_exists( 'Woostify_Pro' ) ) {
 			check_ajax_referer( 'dashboard_ajax_nonce', 'ajax_nonce' );
 
 			// Bail if the nonce doesn't check out.
-			if ( ! current_user_can( 'update_plugins' ) ) {
-				return "aaa111";
-				return;
-			}
+			// 修改判断权限的方法，这里面有bug
+			#if ( ! current_user_can( 'update_plugins' ) ) {
+			#	return;
+			#}
 
 			// Grab the value being saved.
 			$new = isset( $_POST['woostify_license_key'] ) ? sanitize_text_field( wp_unslash( $_POST['woostify_license_key'] ) ) : '';
 
 			// Return if license is empty.
 			if ( empty( $new ) ) {
-				return "bb22";
 				return;
 			}
-			return "cc33";
+			
 			// Get the previously saved value.
 			$old = get_option( 'woostify_pro_license_key' );
 
