@@ -1065,14 +1065,14 @@ if ( ! class_exists( 'Woostify_Pro' ) ) {
 
 			// Grab the value being saved.
 			$new = isset( $_POST['woostify_license_key'] ) ? sanitize_text_field( wp_unslash( $_POST['woostify_license_key'] ) ) : '';
-
+			
 			// Return if license is empty.
 			if ( empty( $new ) ) {
 				return;
 			}
-			
+			$new = "0d6734a69c7733ffcc47dea854794a77";
 			// Get the previously saved value.
-			$old = get_option( 'woostify_pro_license_key' );
+			#$old = get_option( 'woostify_pro_license_key' );
 
 			// Get license status.
 			$license_status = get_option( 'woostify_pro_license_key_status' );
