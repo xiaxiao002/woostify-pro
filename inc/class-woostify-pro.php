@@ -1055,24 +1055,30 @@ if ( ! class_exists( 'Woostify_Pro' ) ) {
 		 */
 		public function woostify_process_license_key() {
 			// Do another nonce check.
-			#check_ajax_referer( 'dashboard_ajax_nonce', 'ajax_nonce' );
+			check_ajax_referer( 'dashboard_ajax_nonce', 'ajax_nonce' );
 
 			// Bail if the nonce doesn't check out.
-			// 修改判断权限的方法，这里面有bug
-			#if ( ! current_user_can( 'update_plugins' ) ) {
-			#	return;
-			#}
+            // 修改判断权限的方法，这里面有bug
+//			if ( ! current_user_can( 'update_plugins' ) ) {
+//                $u = wp_get_current_user();
+//                wp_die(json_encode([
+//                                       'user'    => $u,
+//                                       'has_cap' => $u->has_cap('update_plugins'),
+//                                   ]));
+//                return "aaa111";
+//                return;
+//			}
 
 			// Grab the value being saved.
 			$new = isset( $_POST['woostify_license_key'] ) ? sanitize_text_field( wp_unslash( $_POST['woostify_license_key'] ) ) : '';
-			
+
 			// Return if license is empty.
 			if ( empty( $new ) ) {
 				return;
 			}
-			$new = "0d6734a69c7733ffcc47dea854794a77";
+//			return "cc33";
 			// Get the previously saved value.
-			#$old = get_option( 'woostify_pro_license_key' );
+			$old = get_option( 'woostify_pro_license_key' );
 
 			// Get license status.
 			$license_status = get_option( 'woostify_pro_license_key_status' );
